@@ -55,16 +55,19 @@ Hi, I'm Dmitry, lead fullstack developer
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4869D6?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-%23DD0031?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Graylog](https://img.shields.io/badge/Graylog-6B6B6B?style=for-the-badge&logo=graylog&logoColor=FFFFFF)
+![GICD](https://img.shields.io/badge/CI/CD-FF7400?style=for-the-badge&logo=gitlab&logoColor=FFFFFF)
 
 ## Professional communities
 [![HabrCareer](https://img.shields.io/badge/HabrCareer-4286D3?style=for-the-badge&logo=habr&logoColor=FFFFFF)](https://career.habr.com/brotiger63)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/19689809/brotiger)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF7400?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/Brotiger/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%23DD0031?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/Brotiger63)
 
 ## My contacts
 [![Telegram](https://img.shields.io/badge/Telegram-4286D3?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/brotiger63)
 [![VK](https://img.shields.io/badge/VK-4869D6?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/brotiger63)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%234ea94b?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/79370705198)
-[![Email](https://img.shields.io/badge/Email-FFFF00?style=for-the-badge)](mailto:dimka@bdima.ru)
+[![Email](https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail)](mailto:dimka@bdima.ru)
 
 ## Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brotiger&count_private=true&show_icons=true)
