@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/Brotiger/Brotiger/main/assets/header.gif)
 # Welcome 👋
 Hi, I'm Dmitry, lead fullstack developer
 
