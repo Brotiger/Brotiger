@@ -22,7 +22,7 @@ Hi, I'm Dmitry, lead fullstack developer
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Backend frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=%23E0234E)
+![Laravel](https://img.shields.io/badge/Laravel-D6D6D6?style=for-the-badge&logo=laravel&logoColor=%23E0234E)
 ![Bitrix](https://img.shields.io/badge/Bitrix-437DD4?style=for-the-badge)
 ![NestJs](https://img.shields.io/badge/NestJs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
 ![Yii](https://img.shields.io/badge/Yii-FF7400?style=for-the-badge)
@@ -56,7 +56,7 @@ Hi, I'm Dmitry, lead fullstack developer
 ![Graylog](https://img.shields.io/badge/Graylog-6B6B6B?style=for-the-badge&logo=graylog&logoColor=FFFFFF)
 
 ## Professional communities
-[![Habr](https://img.shields.io/badge/Habr-4286D3?style=for-the-badge&logo=habr&logoColor=FFFFFF)](https://career.habr.com/brotiger63)
+[![HabrCareer](https://img.shields.io/badge/HabrCareer-4286D3?style=for-the-badge&logo=habr&logoColor=FFFFFF)](https://career.habr.com/brotiger63)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%23DD0031?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/Brotiger63)
 
 ## My contacts
