@@ -9,7 +9,7 @@ Hi, I'm Dmitry, lead fullstack developer
 ![python](https://img.shields.io/badge/python-0969A2?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-4869D6?style=for-the-badge&logo=c&logoColor=FFFFFF)
-![CPP](https://img.shields.io/badge/C++-600CAC?style=for-the-badge)
+![CPP](https://img.shields.io/badge/++-600CAC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![CSharp](https://img.shields.io/badge/CSharp-8106A9?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=000000)
