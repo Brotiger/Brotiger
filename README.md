@@ -60,7 +60,7 @@ Hi, I'm Dmitry, lead fullstack developer
 ![GICD](https://img.shields.io/badge/CI/CD-FF7400?style=for-the-badge&logo=gitlab&logoColor=FFFFFF)
 
 ## Professional communities
-[![HabrCareer](https://img.shields.io/badge/HabrCareer-4286D3?style=for-the-badge&logo=habr&logoColor=FFFFFF)](https://career.habr.com/brotiger63)
+[![HabrCareer](https://img.shields.io/badge/HabrCareer-4286D3?style=for-the-badge&logo=habr&logoColor=FFFFFF)](https://career.habr.com/dberestnev63)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/19689809/brotiger)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF7400?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/Brotiger/)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%23DD0031?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/Brotiger63)
